@@ -1,6 +1,8 @@
-### Hi 👋 I'm a budding Java developer who successfully completed the Java Backend Dev course at Sber University. Currently honing my Java skills at Yandex Practicum. 
+### Aloha 👋 my name is Anton and I am a beginner Java developer. <br />
+#### I have recently completed a professional retraining course in the specialty of Java Backend Developer at Sber University.<br />  Currently, I am improving my skills in the Java Developer course at Yandex Practicum. <br />
 
-
+<br><br />
+### Here you can see the progress on LeetCode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lap-lik&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **lap-lik/lap-lik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
