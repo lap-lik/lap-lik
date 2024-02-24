@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 I'm a budding Java developer who successfully completed the Java Backend Dev course at Sber University. Currently honing my Java skills at Yandex Practicum. 
+
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=lap-lik&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **lap-lik/lap-lik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
