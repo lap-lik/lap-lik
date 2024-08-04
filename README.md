@@ -13,16 +13,20 @@
 Здесь можно полюбоваться на мои великие успехи на LeetCode:
   </samp>
   <br/>
-  <br/>
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=lap-lik&theme=dark" width="480"/>
+  <br/>  
+  <a href="https://github.com/lap-lik/leetcode">
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/lap-lik?theme=dark&font=Noto%20Sans%20SC" width="480"/>
 </a>
 </p>
+
+
+
+
 
 ### Немного о себе в кодинге: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - ✅ Успешно прошел курсы профессиональной переподготовки Java Backend Developer от "Сбер Университет".
-- 🌱 В настоящий момент оттачиваю свои навыки на курсе Java Developer в Yandex Practicum.
+- ✅ Успешно прошел курсы профессиональной переподготовки Java Developer в Yandex Practicum.
 - 😄 И, конечно же, предаюсь размышлениям и страданиям над задачками на LeetCode. Как же без них!
   
 
