@@ -6,7 +6,9 @@
   </samp>
   <br/>
   <br/>
+  <a href="https://github.com/lap-lik?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=lap-lik&show_icons=true&theme=dark" alt="Kokhno Anton Github Stats"></img>
+  </a>
 </p>
 <p align="center">
 <samp>
